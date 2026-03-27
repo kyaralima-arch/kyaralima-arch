@@ -4,7 +4,7 @@
 
 🎓 Estudante da Aprendizagem Industrial em apoio a metalmecânica. Contratada pelo grupo farenzena em 2025 (SENAI)
 
-🎓 Estudo no primeiro ano do ensino médio da escola estadual Governador Bornhausen 
+🎓 Estudo no 1º do ensino médio da escola estadual Governador Bornhausen 
 
 💻 Interessado em tecnologia, programação e inovação  
 
