@@ -1,7 +1,11 @@
 # 👋 Olá, eu sou Kyara De Souza Lima
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistemas da informação
-🎓 Estudante da Aprendizagem Industrial em apoio a metalmecânica
+🎓 Estudante da Aprendizagem Industrial em programador de sistemas da informação.(SENAI) contratada pela empresa seara alimentos
+
+🎓 Estudante da Aprendizagem Industrial em apoio a metalmecânica. Contratada pelo grupo farenzena em 2025 (SENAI)
+
+🎓 Estudo no primeiro ano do ensino médio da escola estadual Governador Bornhausen 
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
